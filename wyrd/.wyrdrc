@@ -162,8 +162,8 @@ color calendar_level1    white black
 color calendar_level2    blue black
 color calendar_level3    magenta black
 color calendar_today     white red
-color left_divider       black black
-color right_divider      black black
+color left_divider       black default
+color right_divider      black default
 
 
 
