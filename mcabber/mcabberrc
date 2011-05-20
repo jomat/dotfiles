@@ -366,7 +366,7 @@ set escdelay = 1000
 #
 set color_background   = default
 #set color_general      = white
-#set color_info         = white
+set color_info         = green
 #set color_msgin        = white
 #set color_msgout       = cyan
 #set color_msghl        = yellow
